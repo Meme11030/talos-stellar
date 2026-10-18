@@ -8,6 +8,7 @@ members = [
     "storage_migration",
     "talos_dividends",
     "indexer_fixtures",
+    "pause_control",
 ]
 
 [workspace.dependencies]
